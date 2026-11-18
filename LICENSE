@@ -1,0 +1,28 @@
+PROPRIETARY SOFTWARE & INTELLECTUAL PROPERTY NOTICE
+===================================================
+
+Copyright (c) 2026 Salsabila Putri. All Rights Reserved.
+
+1. OWNERSHIP & SCOPE
+The "Veris" platform, including its Hybrid PII Detection Engine (VerisHybridArbiter),
+Statutory Indonesian Checksum Validators, Hard-Negative Trap Filters, Contextual
+Boundary Refiners, Fine-Tuned IndoBERT-21BIO model weights, Pre-LLM Privacy Gateway,
+and Web Console interface, is the proprietary intellectual property of the author.
+
+2. PUBLIC SHOWCASE REPOSITORY TERMS
+This public repository ("veris-uupdp-showcase") is provided strictly for portfolio
+demonstration, architectural review, and academic/technical evaluation purposes.
+
+- You MAY view, share links to, and cite the architectural documentation, benchmark
+  methodology, and visual demonstrations contained in this showcase repository with
+  proper attribution to the author.
+- You MAY NOT reproduce, redistribute, reverse-engineer, claim ownership of, or use
+  any part of the proprietary algorithms, system designs, or visual assets for
+  commercial products or derivative works without prior written authorization from
+  the copyright holder.
+
+3. ACCESS TO CORE ENGINE & DOCKER APPLIANCE
+The full production source code (`veris-backend` & `veris-frontend`) and trained
+`model.safetensors` weights are maintained in a private repository. For recruitment
+evaluation, live technical demonstrations, or enterprise licensing inquiries, please
+contact the author directly via GitHub or LinkedIn.
